@@ -2,12 +2,12 @@ package controller
 
 import (
 	"encoding/json"
-	"expensecalculatorapi/connector"
-	"expensecalculatorapi/model"
-	"expensecalculatorapi/service"
 	"fmt"
 	"net/http"
 	"strconv"
+	"tushargoyal100/expensecalculatorapi/connector"
+	"tushargoyal100/expensecalculatorapi/model"
+	"tushargoyal100/expensecalculatorapi/service"
 
 	"github.com/gorilla/mux"
 	"go.mongodb.org/mongo-driver/bson/primitive"

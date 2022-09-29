@@ -1,9 +1,9 @@
 package main
 
 import (
-	"expensecalculatorapi/router"
 	"fmt"
 	"net/http"
+	"tushargoyal100/expensecalculatorapi/router"
 )
 
 func main() {

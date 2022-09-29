@@ -1,4 +1,4 @@
-module expensecalculatorapi
+module tushargoyal100/expensecalculatorapi
 
 go 1.18
 

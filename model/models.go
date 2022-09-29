@@ -1,8 +1,8 @@
 package model
 
 import (
-	"expensecalculatorapi/constants"
 	"time"
+	"tushargoyal100/expensecalculatorapi/constants"
 
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )

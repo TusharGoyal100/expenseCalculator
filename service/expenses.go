@@ -2,8 +2,8 @@ package service
 
 import (
 	"encoding/json"
-	"expensecalculatorapi/connector"
-	"expensecalculatorapi/model"
+	"tushargoyal100/expensecalculatorapi/connector"
+	"tushargoyal100/expensecalculatorapi/model"
 )
 
 func AddExpense(expense model.Expense) error {

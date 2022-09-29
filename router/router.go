@@ -1,7 +1,7 @@
 package router
 
 import (
-	"expensecalculatorapi/controller"
+	"tushargoyal100/expensecalculatorapi/controller"
 
 	"github.com/gorilla/mux"
 )
